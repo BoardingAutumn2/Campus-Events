@@ -2,17 +2,19 @@
 Repo for CampusEvents app
 
 
-##Naming Convention
+## Naming Convention
 
-In xml
+### In xml
 TextView - tv_name
 EditText - txt_name
 Button - btn_name
 listview/recycleview - lv_name
 
 
-In Java file
+### In Java file
 
 TextView - tvName
 EditText - textName
 Button - buttonName
+
+arraylists - listName
